@@ -1,0 +1,18 @@
+[
+    {
+        "destinationSubscriptionId": "00000000-0000-0000-0000-000000000000",
+        "destinationDatabaseServerName": "myservername",
+        "destinationDatabaseName": "mydatabasename",
+        "destinationResourceGroup": "myresoucegroupname",
+        "destinationDatabaseUsername": "mydatabaseusername",
+        "destinationDatabasePassword": "mydatabasepassword"
+    },
+    {
+        "destinationSubscriptionId": "00000000-0000-0000-0000-000000000000",
+        "destinationDatabaseServerName": "myservername",
+        "destinationDatabaseName": "adampaternostro02",
+        "destinationResourceGroup": "myresoucegroupname",
+        "destinationDatabaseUsername": "mydatabaseusername",
+        "destinationDatabasePassword": "mydatabasepassword"
+    }
+]
